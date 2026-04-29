@@ -16,7 +16,7 @@ I am expected to finish Ph.D in 2026. Therefore, I’m not actively looking for 
 ## News
 - [2025-11] One paper is accepted by *IEEE GRSL*.
 - [2025-10] Awarded the National Scholarship for Doctoral Students (博士研究生国家奖学金).
-- [2025-07] One paper is accepted by *IGARSS 2025*. \[[paper](https://ieeexplore.ieee.org/document/11242535)\]
+- [2025-07] One paper is accepted by *IGARSS 2025*.
 - [2025-05] One paper is posted on *arXiv* (EarthSynth).
 - [2025-03] Runner-up in the [NTIRE25 Challenge](https://codalab.lisn.upsaclay.fr/competitions/21851#learn_the_details), CVPR 2025 Workshop.
 - [2024-12] One paper is accepted by *IEEE JSTARS*.
@@ -30,7 +30,7 @@ I am expected to finish Ph.D in 2026. Therefore, I’m not actively looking for 
 * **Algorithm Engineer Intern (Multimodal)** — ByteDance
   * Mar 2025 – Jan 2026
 
-## [Publications](/publications/)
+## Selected Publications
 
 <style>
 .pub-list { list-style: none; padding: 0; margin: 0; }
@@ -105,19 +105,6 @@ I am expected to finish Ph.D in 2026. Therefore, I’m not actively looking for 
     <div class="pub-links">
       <a class="pub-btn" href="https://arxiv.org/pdf/2408.09110">Paper</a>
       <a class="pub-btn" href="https://github.com/jaychempan/LAE-DINO">Code</a>
-    </div>
-  </div>
-</li>
-
-<li class="pub-item">
-  <div class="pub-badge" style="background:#7f8c8d;">arXiv<br>2025</div>
-  <div class="pub-content">
-    <p class="pub-title">EarthSynth: Generating Informative Earth Observation with Diffusion Models</p>
-    <p class="pub-authors">Jiancheng Pan, Shiye Lei, Yuqian Fu, Jiahao Li, <span class="me">Yanxing Liu</span>, Yuze Sun, Xiao He, Long Peng, Xiaomeng Huang, Bo Zhao</p>
-    <p class="pub-venue">arXiv preprint arXiv:2505.12108, 2025</p>
-    <div class="pub-links">
-      <a class="pub-btn" href="https://arxiv.org/abs/2505.12108">Paper</a>
-      <a class="pub-btn" href="https://jaychempan.github.io/EarthSynth-website">Project</a>
     </div>
   </div>
 </li>
