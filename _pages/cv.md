@@ -14,23 +14,13 @@ Education
 * Ph.D in Signal and information processing, University of Chinese Academy of Sciences, 2026 (expected)
 * B.S. in Electronic information engineering, Tianjin University, 2021
 
-<!-- Work experience
+Internship
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Intern (Large Language Models)** — Shanghai Artificial Intelligence Laboratory
+  * May 2024 – Aug 2024
+* **Algorithm Engineer Intern (Multimodal)** — ByteDance
+  * Mar 2025 – Jan 2026
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
-  
 Skills
 ======
 * Operating System: Linux

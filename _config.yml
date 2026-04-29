@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-# title                    : "Yanxing Liu / 刘 闫兴"
-title_separator          : ""
+title                    : "Yanxing Liu"
+title_separator          : "-"
 name                     : &name "Yanxing Liu"
 description              : &description "A PhD student in UCAS"
 url                      : https://yanxingliu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
