@@ -27,14 +27,6 @@ Skills
 * Tools: Docker, Git
 * Programming Languages: Python, Matlab, C/C++, Shell
 
-[Publications](/publications/)
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-  
-  
 Service and leadership
 ======
 * Contributor of some popular open-source projects, such as [mmdetection](https://github.com/open-mmlab/mmdetection).
