@@ -22,6 +22,12 @@ I am expected to finish Ph.D in 2026. Therefore, I’m not actively looking for 
 - [2025-07] One paper is accepted by *IGARSS 2025*.
 - [2025-11] One paper is accepted by *IEEE GRSL*.
 
+## Internship
+* **Research Intern (Large Language Models)** — Shanghai Artificial Intelligence Laboratory
+  * May 2024 – Aug 2024
+* **Algorithm Engineer Intern (Multimodal)** — ByteDance
+  * Mar 2025 – Jan 2026
+
 ## Research
 * **Few-Shot Object Detection in Remote-Sensing Images via Label-Consistent Classifier and Gradual Regression** [\[paper\]](https://ieeexplore.ieee.org/document/10445268)[\[code\]](https://github.com/YanxingLiu/SAE-FSDet)
   * **Yanxing Liu**, Zongxu Pan, Jianwei Yang, Bingchen Zhang, Guangyao Zhou, Qixiang Ye
