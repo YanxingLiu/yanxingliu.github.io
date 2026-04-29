@@ -2,6 +2,7 @@
 title: '实用命令行工具'
 date: 2026-04-29
 permalink: /posts/2026/04/useful-cli-tools/
+author_profile: false
 tags:
   - tools
   - CLI
