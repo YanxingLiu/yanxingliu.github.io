@@ -37,7 +37,7 @@ Skills
 * Tools: Docker, Git
 * Programming Languages: Python, Matlab, C/C++, Shell
 
-Publications
+[Publications](/publications/)
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}

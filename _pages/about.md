@@ -28,7 +28,7 @@ I am expected to finish Ph.D in 2026. Therefore, I’m not actively looking for 
 * **Algorithm Engineer Intern (Multimodal)** — ByteDance
   * Mar 2025 – Jan 2026
 
-## Research
+## [Publications](/publications/)
 * **Few-Shot Object Detection in Remote-Sensing Images via Label-Consistent Classifier and Gradual Regression** [\[paper\]](https://ieeexplore.ieee.org/document/10445268)[\[code\]](https://github.com/YanxingLiu/SAE-FSDet)
   * **Yanxing Liu**, Zongxu Pan, Jianwei Yang, Bingchen Zhang, Guangyao Zhou, Qixiang Ye
   * *IEEE Transactions on Geoscience and Remote Sensing, 2024*
