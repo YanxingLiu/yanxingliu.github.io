@@ -1,5 +1,5 @@
 ---
-title: '实用命令行工具'
+title: '实用命令行工具推荐'
 date: 2026-04-29
 permalink: /posts/2026/04/useful-cli-tools/
 author_profile: false
@@ -326,3 +326,7 @@ bws run -- 'printenv'
 | `C-b ]` | 粘贴 |
 | `q` | 退出复制模式 |
 > 按 `C-b ?` 可查看完整快捷键列表。
+
+## 参考
+- [Bilibili 张司机在路上](https://space.bilibili.com/7429895?spm_id_from=333.337.0.0)
+
