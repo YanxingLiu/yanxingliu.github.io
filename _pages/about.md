@@ -7,22 +7,30 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Yanxing Liu. I got a bachelor degree in School of Electronics and Information Engineering, Tianjin University, China in 2021. I'm currently pursuing a Ph.D degree in Aerospace Information Engineering and Technology, University of Chinese Academy of Sciences. My research interests include few-shot object detection, remote sensing image analysis, and deep learning.
+**Yanxing Liu** is a Ph.D. student in Aerospace Information Engineering at the University of Chinese Academy of Sciences (UCAS). He received his B.E. degree from the School of Electronics and Information Engineering, Tianjin University, China in 2021.
 
-Besides research, I'm particularly interested in the composition principles of computers and robotics. I enjoy building my own robots and computers. I have broad hobbies in reading, writing, and coding.
+His research focuses on **few-shot object detection, remote sensing image analysis, and deep learning**, with publications in top venues such as *IEEE T-GRS, AAAI, and IEEE GRSL*.
 
-I am expected to finish Ph.D in 2026. Therefore, I’m not actively looking for job opportunities now. But I'm interested in working with anyone who is working on the above topics. Drop me an email if you want to collaborate.
+He is open to research collaborations and visiting opportunities related to his research areas. Feel free to reach out via email.
+
+## Research Interests
+
+* Few-Shot Object Detection
+* Remote Sensing Image Analysis
+* Open-Vocabulary Detection
+* Diffusion Models for Data Augmentation
+* Multimodal Learning
 
 ## News
-- [2025-11] One paper is accepted by *IEEE GRSL*.
+- [2025-11] A paper has been accepted by *IEEE GRSL*.
 - [2025-10] Awarded the National Scholarship for Doctoral Students (博士研究生国家奖学金).
-- [2025-07] One paper is accepted by *IGARSS 2025*.
-- [2025-05] One paper is posted on *arXiv* (EarthSynth).
+- [2025-07] A paper has been accepted by *IGARSS 2025*.
+- [2025-05] A paper has been posted on *arXiv* (EarthSynth).
 - [2025-03] Runner-up in the [NTIRE25 Challenge](https://codalab.lisn.upsaclay.fr/competitions/21851#learn_the_details), CVPR 2025 Workshop.
-- [2024-12] One paper is accepted by *IEEE JSTARS*.
-- [2024-12] One paper is accepted by *AAAI 2025*.
-- [2024-12] One paper is accepted by *Remote Sensing*.
-- [2024-02] One paper is accepted by *IEEE T-GRS*.
+- [2024-12] A paper has been accepted by *IEEE JSTARS*.
+- [2024-12] A paper has been accepted by *AAAI 2025*.
+- [2024-12] A paper has been accepted by *Remote Sensing*.
+- [2024-02] A paper has been accepted by *IEEE T-GRS*.
 
 ## Internship
 * **Research Intern (Large Language Models)** — Shanghai Artificial Intelligence Laboratory
@@ -74,7 +82,7 @@ I am expected to finish Ph.D in 2026. Therefore, I’m not actively looking for 
 <li class="pub-item">
   <div class="pub-badge" style="background:#1772d0;">IEEE<br>T-GRS</div>
   <div class="pub-content">
-    <p class="pub-title">Few-Shot Object Detection in Remote-Sensing Images via Label-Consistent Classifier and Gradual Regression</p>
+    <p class="pub-title">🔥 Few-Shot Object Detection in Remote-Sensing Images via Label-Consistent Classifier and Gradual Regression</p>
     <p class="pub-authors"><span class="me">Yanxing Liu</span>, Zongxu Pan, Jianwei Yang, Bingchen Zhang, Guangyao Zhou, Qixiang Ye</p>
     <p class="pub-venue">IEEE Transactions on Geoscience and Remote Sensing, 2024</p>
     <div class="pub-links">
@@ -99,7 +107,7 @@ I am expected to finish Ph.D in 2026. Therefore, I’m not actively looking for 
 <li class="pub-item">
   <div class="pub-badge" style="background:#c0392b;">AAAI<br>2025</div>
   <div class="pub-content">
-    <p class="pub-title">Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community</p>
+    <p class="pub-title">🔥 Locate Anything on Earth: Advancing Open-Vocabulary Object Detection for Remote Sensing Community</p>
     <p class="pub-authors">Jiancheng Pan*, <span class="me">Yanxing Liu*</span>, Yuqian Fu, Muyuan Ma, Jiaohao Li, Danda Pani Paudel, Luc Van Gool, Xiaomeng Huang</p>
     <p class="pub-venue">AAAI, 2025 &nbsp;·&nbsp; * equal contribution</p>
     <div class="pub-links">
