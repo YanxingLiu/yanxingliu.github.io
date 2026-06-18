@@ -58,10 +58,6 @@ AI写作和AutoResearch的高速发展让论文数量井喷，我发现我越来
 
 ## 最终效果
 
-最后展示一下当前成品的效果。第一张是 Obsidian 里的每日论文简报：每篇论文都会带有 arXiv、PDF、Zotero 和不同 prompt 对应的 LLM for Zotero 入口。
+最后展示一下当前成品的效果：Obsidian 中的每日论文简报、Zotero 中按日期归档的论文 collection，以及从简报点击 prompt 后在 Zotero 里按需生成的结构化阅读 note。
 
-![Obsidian 中的每日论文简报效果](/images/daily-paper-workflow-brief.png)
-
-第二张是从简报点击 `Summarize` 之后，在 Zotero 里生成阅读 note 的效果。左边仍然是论文 PDF，右边是按 prompt 生成的结构化阅读笔记。
-
-![Zotero 中按需生成论文阅读 note 的效果](/images/daily-paper-workflow-zotero-note.png)
+![AI 论文阅读工作流最终效果](/images/daily-paper-workflow-showcase.png)
